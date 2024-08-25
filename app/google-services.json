@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907188095023",
+    "firebase_url": "https://foodizz-3860b-default-rtdb.firebaseio.com",
+    "project_id": "foodizz-3860b",
+    "storage_bucket": "foodizz-3860b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907188095023:android:3766214a6c656ebd781eda",
+        "android_client_info": {
+          "package_name": "com.adminfoodizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907188095023-vkgaosi8kkao00v9am2nsilq1pkrqevs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adminfoodizz",
+            "certificate_hash": "8a38555c678cf4d8fa1dcbef14c52b12b5bd1e0e"
+          }
+        },
+        {
+          "client_id": "907188095023-v88pgjviv1kt9md3f1h4gqa65t05vtjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3P6U-RF5aWwoVhojNP09F3QSEMI9Fic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907188095023-v88pgjviv1kt9md3f1h4gqa65t05vtjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
